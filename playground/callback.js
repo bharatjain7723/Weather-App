@@ -1,0 +1,4 @@
+var getUser = (id, callback) => {
+
+};
+
