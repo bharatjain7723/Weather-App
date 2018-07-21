@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bharatjain7723/Weather-App/issues"
   },
-  "homepage": "https://github.com/bharatjain7723/Weather-App#readme"
+  "homepage": "https://github.com/bharatjain7723/Weather-App#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
